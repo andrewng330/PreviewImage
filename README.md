@@ -7,6 +7,7 @@ It means it doesn't support checking file size on ie 7,8,9 as it would require c
 Online Demo
 =============================
 https://jsfiddle.net/59x9x2ak/
+
 http://codepen.io/andrewng330/pen/MwPPPG/
 
 Requirement
