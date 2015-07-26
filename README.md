@@ -10,11 +10,11 @@ php as Backend?
 
 Base Usage
 =============================
-$("input[name=preview]").uploadpreview({
-	div: ".preview",
-	imgwidth: 180,
-	imgheight: 120
-});
+	$("input[name=preview]").uploadpreview({
+		div: ".preview",
+		imgwidth: 180,
+		imgheight: 120
+	});
 * 1.Input element doesn't have name attribute it will throw error
 * *1.1. Name attribute need to end with [] so that php understands it an array
 * 2.it will throw error if div option is not declared
