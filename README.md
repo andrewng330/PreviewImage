@@ -10,7 +10,7 @@ php as Backend?
 
 Base Usage
 =============================
-$("input[name='file1[]']").uploadpreview({
+$("input[name=preview]").uploadpreview({
 	div: ".preview",
 	imgwidth: 180,
 	imgheight: 120
@@ -24,7 +24,11 @@ $("input[name='file1[]']").uploadpreview({
 Browser Support
 =============================
 IE: 7+
+
 Chrome: 6
+
 FireFox: 3+ ?
+
 Opera: 11.5+
+
 Others: Check http://caniuse.com/#search=file%20api For More File API
