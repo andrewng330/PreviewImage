@@ -1,7 +1,8 @@
-# UploadPreview
-Upload Preview down to IE7 (partially)
-By partially, it means it doesn't support checking file size on ie 7,8,9 as I would require clients side ActiveX or flash
+# UploadPreview 
 This plugin is mainly for preview image before uploading on both old IE browser and modern browser.
+Down to IE7 (partially)
+By partially, it means it doesn't support checking file size on ie 7,8,9 as it would require clients side ActiveX or flash, but it could also be implemented in the future
+
 
 Requirement
 =============================
