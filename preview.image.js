@@ -1,5 +1,5 @@
 (function ($) {
-	$.fn.uploadpreview = function (setting) {
+	$.fn.previewimage = function (setting) {
 		var setting = $.extend({
 			div: "",
 			imgwidth: 150,
