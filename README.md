@@ -1,4 +1,4 @@
-# UploadPreview 
+# Preview Image
 This plugin is mainly for preview image before uploading on both old IE browser and modern browser.
 
 Down to IE7 (partially).
